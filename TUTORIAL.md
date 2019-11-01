@@ -1,3 +1,9 @@
 ## Step 1: Host site on GitHub Pages
 
 References: https://pages.github.com/
+
+## Step 2: app.js and webserver
+
+References: https://www.npmjs.com/package/http-server
+
+Note: use private browser to prevent "Unchecked runtime.lastError: The message port closed before a response was received.". Here more readings: https://stackoverflow.com/questions/54126343/how-to-fix-unchecked-runtime-lasterror-the-message-port-closed-before-a-respon
