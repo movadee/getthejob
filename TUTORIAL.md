@@ -13,3 +13,7 @@ Note: use private browser to prevent "Unchecked runtime.lastError: The message p
 References: https://dev.to/rishavs/making-a-single-page-app-in-ye-good-olde-js-es6-3eng
 
 Domain Config: https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain
+
+## Step 4: CSS framework
+
+Bulma: https://bulma.io/
