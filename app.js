@@ -8,7 +8,7 @@ import Navbar from "./components/navbar.js";
 // List of supported routes
 const routes = {
   "/": Home,
-  "/employee-vs-contractor": EmployeeVsContractor
+  "/employee-vs-contractor-pay": EmployeeVsContractor
 };
 
 // The router code. Takes a URL, checks against the list of supported routes
